@@ -1,37 +1,44 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Origin: Souffle Repository
-Label: Souffle
-Suite: stable
-Codename: stable
-Version: 1.0
 Architectures: amd64 arm64
+Codename: stable
 Components: main
-Description: Souffle repository
-Date: Mon, 04 Apr 2022 04:10:00 +0000
+Date: Wed, 13 Apr 2022 09:06:49 +0000
+Description: Translator of declarative Datalog programs into the C++ language.
+Label: Souffle
+Origin: Souffle Repository
+Suite: stable
+Version: 1.0
 MD5Sum:
- 25953fd6a2e407aaeea23c834b74bb54 1394 main/binary-amd64/Packages.gz
- c179859869a68b0a52bf7f73921bf610 5743 main/binary-amd64/Packages
+ c388183df7126c7c1c39c0493757069b              247 Release
+ a590bd46c75275b239b04f9deb2283d6             6559 main/binary-amd64/Packages
+ e4ebe6bfb8cef7cd6179d4d96da50c79             1887 main/binary-amd64/Packages.gz
 SHA1:
- c8b5b267e2d2dc35086dc5db1374b059482d2a94 1394 main/binary-amd64/Packages.gz
- 67726d1a6af110e68213f5fe5281bd445d2f8648 5743 main/binary-amd64/Packages
+ 06f61daa866969011f1e00879d6a09735a4d8b0b              247 Release
+ ae0d2b19aeac545f8681e033b469d3feda9a33cf             6559 main/binary-amd64/Packages
+ 796404099012e1b05ae0cea2557e2f2b8765af32             1887 main/binary-amd64/Packages.gz
 SHA256:
- 868d6aa055dccc6a39b953dd6fea314d48d98a7d575581bbc0d7d481eb9113ee 1394 main/binary-amd64/Packages.gz
- bf7c9306f17bdec5c1f17f2ca7cfa6f67f95ff288fe1ff68e095c989b1893aaa 5743 main/binary-amd64/Packages
+ 789dacde937a9ec9dc0d204802864271a00d49f4653033e999514f6b76b2b609              247 Release
+ 3f2164020760afc2534102775c3115982fe62c761aa55913408debbf5e68c589             6559 main/binary-amd64/Packages
+ 5807a8a8b45b659b52236fd14f66123f789001144c01f8cac06995325e4b4f35             1887 main/binary-amd64/Packages.gz
+SHA512:
+ 342847527d7e9f5278af9485301dcd31766501926a27391b0b821b00aa31ae9983bf7acb55c10e3e05c03cf098934b64d987dd31467b342f6a185b68c96b0bf6              247 Release
+ beb05ca98a113950629b676e2f07d05c52e31c545931e7fc85a1db08cc5a0e0933827695c72cc5653d615cfd7239422e19a2c9fb256a8f9309529f71609b6315             6559 main/binary-amd64/Packages
+ 1a1c8068dd9cb19f297812d63c0a025fb4d94f7a21a01b2ced6e056fce483a7b93706b9308b7c47d65600a77d7f2dfeaaf0531428db7bb27275bf0d54ce9ad42             1887 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEoxmuq4PZhZKW9BmAGUsirwP6wt0FAmJKb5gACgkQGUsirwP6
-wt3tPxAAnhi4WUlQjKSr53ui5EwR2uok92VrIJaBcWTCu2htoE0ZmS1/MV14M1NX
-o0Yoant3Oys7+J6+3sDCQbNx0gP7Nw+HzEJhbzeFyZyodEx76EdtsVn+fzFpGYsd
-B2FKy/oAAtRoJfhtGHUf243TfY4bALcyT3RxqljPV+sBpp/49Vuo+m0mByes2fuo
-GjgQX7ntXzgGTQ6Es3ZYpHxX5IBe9dKKkqmT9oFipaBmXDy2DQS4g8jSRklrNeXI
-aHDbiLlxj86XUPpCeQsX0NGKaZopMxKgxcECDuOPDV7i+GFdbDMRHLFAbKIm4nAV
-COd6So1znYImp2Ke5qh7+foKC5EC/XJ6rgR8iR/+N7M5zQ3183SHmXc20iDGYjES
-8v0WWbkkayRFSZRzAOSg53Judq5sLC3EO4hb9CL4O4DAexW8YN9uA0VX30+V3pDX
-tPzDaSL5QB26VAv6N8zhOAIgRoOOwz3FFkIBlBvKEjVQyRlobfOvT3aCbvh3Mu0c
-5vFoU8+bh+YCcVLC1uXxrg4WL/owgVtxp4d0gRSo4yPopz/pc0RSa4OnPQNRofNe
-pzR8f/88eb5Hksao0QedRmyGkjz5tGivuc19Gdbzixwj1p2PZZJRCvjcx9wwnx81
-Gq3rWXBKSOQcSSladntb7RLtCtpsv9n9q2s6pnge1Ttq5G3AqyY=
-=Kzn+
+iQIzBAEBCgAdFiEEoxmuq4PZhZKW9BmAGUsirwP6wt0FAmJWku8ACgkQGUsirwP6
+wt3dzxAAsdfI4GD85c1S4X3Q8kAgBwgE1S19wCt75QCAwiN9R0Xx6iW3FeAEkYCx
+NgnWLLGfDWkUCU66OScDb6e3E0r4fHLYfbpaVeDN/EXYtm/y1jG30VokfT3QNkYB
+1VhYo98BN9yZv7EfFFrZ0EXXCMjEXEu2IBio74D6WFdhpCq7l5ks5sUG95FXbevd
+wC6iLRvHHgipRlNyT4OmlZTnhLk3jLR2WIKV9eIq+GYyIe5sCYIGtNPp+D7n+ctP
+ohib2A11FjFqzgnBE5XgcJTG+WABoZgl6+h/gJnINeYUQgVOG6ruA3hapA5R2kYr
+isPu+JQrSnJ27ag40un9lqSWJuabjNl2GagUPWGqcFxe0AVkoeaQTKL5twKoH5r0
+xvo1Wd11MglnTQ8WqWUDyO+X4JDdAjPsz+FFKQhDbQpMB1x27PidvybiGJdtkOSA
+kzi8qM7Bw3DhNgkTAqt+cZbJlNYWlqYZ8gm/vokqgqUi5CkQP00vuUChy+DtrXdO
+In5jlsTsDntgpPAhw28O9BuLqThgUtz31PDdkLQB5Q7qHE8qaehwxcSwQhbkeEtY
+MmQrcyp5v/nuP8wW8Z4kbupfXj05sGNFDzTbiQp24Wy8TBei/XVEG7by4vqIEMNG
+WljI71NoeRJzwnZ6x1TMVktL0P82S60qeEoEIwP/74bYvcypOLs=
+=NEad
 -----END PGP SIGNATURE-----
