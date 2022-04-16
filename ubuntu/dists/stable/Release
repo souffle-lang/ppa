@@ -1,25 +1,25 @@
 Architectures: amd64 arm64
 Codename: stable
 Components: main
-Date: Wed, 13 Apr 2022 09:06:49 +0000
+Date: Sat, 16 Apr 2022 11:40:17 +0000
 Description: Translator of declarative Datalog programs into the C++ language.
 Label: Souffle
 Origin: Souffle Repository
 Suite: stable
 Version: 1.0
 MD5Sum:
- c388183df7126c7c1c39c0493757069b              247 Release
- a590bd46c75275b239b04f9deb2283d6             6559 main/binary-amd64/Packages
- e4ebe6bfb8cef7cd6179d4d96da50c79             1887 main/binary-amd64/Packages.gz
+ dc9ec09e80ecbf47ab01012f4b00d184              247 Release
+ 8c761f57f5b6ab984385f170dbf38df5             6567 main/binary-amd64/Packages
+ 86398a485f4714526daf22cc4712bee5             1903 main/binary-amd64/Packages.gz
 SHA1:
- 06f61daa866969011f1e00879d6a09735a4d8b0b              247 Release
- ae0d2b19aeac545f8681e033b469d3feda9a33cf             6559 main/binary-amd64/Packages
- 796404099012e1b05ae0cea2557e2f2b8765af32             1887 main/binary-amd64/Packages.gz
+ c22bc6b4a77230231a5be6e5fae83429aa1db07e              247 Release
+ 150db46c7fa25e43ef4e328d1aa18e065cbf5821             6567 main/binary-amd64/Packages
+ 5e050bca8e047bac8c9c6cbc22c66357f5f7a80b             1903 main/binary-amd64/Packages.gz
 SHA256:
- 789dacde937a9ec9dc0d204802864271a00d49f4653033e999514f6b76b2b609              247 Release
- 3f2164020760afc2534102775c3115982fe62c761aa55913408debbf5e68c589             6559 main/binary-amd64/Packages
- 5807a8a8b45b659b52236fd14f66123f789001144c01f8cac06995325e4b4f35             1887 main/binary-amd64/Packages.gz
+ c775b148e710711d839fa34cdb92c97cbf932e0aa37de44755478a7510f85e8f              247 Release
+ a4c40c0a170ce3f09357c824c1f37a6ef06e7a1ed26be943a46426a9c66664cc             6567 main/binary-amd64/Packages
+ 6518a0bf326f043befe7f0fb38ee0d2de0672879c3f0c4ef83be4aee48920c62             1903 main/binary-amd64/Packages.gz
 SHA512:
- 342847527d7e9f5278af9485301dcd31766501926a27391b0b821b00aa31ae9983bf7acb55c10e3e05c03cf098934b64d987dd31467b342f6a185b68c96b0bf6              247 Release
- beb05ca98a113950629b676e2f07d05c52e31c545931e7fc85a1db08cc5a0e0933827695c72cc5653d615cfd7239422e19a2c9fb256a8f9309529f71609b6315             6559 main/binary-amd64/Packages
- 1a1c8068dd9cb19f297812d63c0a025fb4d94f7a21a01b2ced6e056fce483a7b93706b9308b7c47d65600a77d7f2dfeaaf0531428db7bb27275bf0d54ce9ad42             1887 main/binary-amd64/Packages.gz
+ e474b10a0aa4db475b8fa82323937909f39e2ff15aefcefe1b1545cb69b7b782d4355fab1fc5062bdfdca244d1c01492b96d13d4d6471c4571eeae7b19ab8600              247 Release
+ 10ea5bfc282e3f81d6f316d74cba1982a7f38819250dca39beaa478ee372114238a4bc47c1cb29883105a24874c09d4ea1797d6302940e0612f537488cc33a67             6567 main/binary-amd64/Packages
+ d2e58376de12e6afebf34478c6e53de8164ca201ab12d0dfb344c9b3d66a152624c8f17795433315012126b67d978bfde7c0a6d17ce5ee864d700ed7d5c2ee4f             1903 main/binary-amd64/Packages.gz
