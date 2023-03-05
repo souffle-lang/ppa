@@ -137,3 +137,20 @@ SHA512: e7b7182c9eb734b883b19723c996d693f7f580ae3f9e30d73da217477d993231525c2de5
 Description: A Datalog Compiler
  Souffle - A Datalog Compiler
 
+Package: souffle
+Architecture: amd64
+Version: 2.4
+Priority: optional
+Section: devel
+Maintainer: Bernhard Scholz <bernhard.scholz@sydney.edu.au>
+Installed-Size: 17927
+Depends: g++ (>= 8), libffi-dev, libncurses5-dev, libsqlite3-dev, mcpp, zlib1g-dev, python3, libc6 (>= 2.29), libffi7 (>= 3.3~20180313), libgcc-s1 (>= 3.0), libgomp1 (>= 6), libncurses6 (>= 6), libsqlite3-0 (>= 3.6.0), libstdc++6 (>= 9), libtinfo6 (>= 6), zlib1g (>= 1:1.1.4)
+Filename: pool/stable/x86_64-ubuntu-2004-souffle-2.4-Linux.deb
+Size: 4353302
+MD5sum: 424e1f280560bb71714ef85ffa867815
+SHA1: 0fb6b600e32fd0cc390007db5ea3be110d5d3658
+SHA256: 77faa0c0b8ca117932ff9e71f02fabfcf98c19166fe51042197cc7d3c37a3966
+SHA512: c9a6e1617e3a63ed10fd2f42a52f5d20f1c0a24db2db0472ee9ab9e6af808d731ea661ee6180ea70411c6792ed7034978f1d048c9c2eff3940966813b5c90da6
+Description: A Datalog Compiler
+ Souffle - A Datalog Compiler
+
