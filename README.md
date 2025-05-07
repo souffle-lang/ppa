@@ -1,5 +1,9 @@
 # Souffle repository
 
+📢 **This repository is not maintained nor updated currently (help wanted)**
+
+Please download and install an official soufflé package from the [Releases page](https://github.com/souffle-lang/souffle/releases) instead.
+
 ## Fedora
 ```
 dnf install https://souffle-lang.github.io/ppa/fedora/36/x86_64/souffle.fedora36repo.rpm
